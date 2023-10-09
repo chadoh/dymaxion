@@ -16,7 +16,7 @@
    version="1.0"
    sodipodi:docname="Fuller_projection.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   style="display:inline;background:black">
+   style="display:inline">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -87,7 +87,9 @@ Grid lines of 20°</dc:description>
       stroke-opacity: 1;
     }
     .land {
-      fill: #A39DAE;
+      fill: #79C785;
+      fill: #7EBEA3;
+      fill: #53A08E;
       stroke: none;
       stroke-width: 0.34999999;
       stroke-linecap: round;
@@ -96,7 +98,8 @@ Grid lines of 20°</dc:description>
     }
     .grid-lines {
       fill: none;
-      stroke: white;
+      stroke: #42523955;
+      stroke: none;
       stroke-width: 0.2;
       stroke-linecap: round;
       stroke-miterlimit: 4;
