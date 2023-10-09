@@ -98,8 +98,7 @@ Grid lines of 20°</dc:description>
     }
     .grid-lines {
       fill: none;
-      stroke: #42523955;
-      stroke: none;
+      stroke: #425239ff;
       stroke-width: 0.2;
       stroke-linecap: round;
       stroke-miterlimit: 4;
@@ -108,7 +107,8 @@ Grid lines of 20°</dc:description>
     .fold-lines {
       fill: none;
       fill-rule: evenodd;
-      stroke: none;
+      stroke: white;
+      stroke: #ffffff88;
       stroke-width: 0.80000001;
       stroke-linecap: butt;
       stroke-linejoin: miter;
